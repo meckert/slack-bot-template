@@ -1,0 +1,24 @@
+{
+  "name": "slack-bot-template",
+  "version": "1.0.0",
+  "description": "a slack bot template",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meckert/slack-bot-template.git"
+  },
+  "keywords": [
+    "slack",
+    "bot"
+  ],
+  "author": "Mathias Eckert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meckert/slack-bot-template/issues"
+  },
+  "homepage": "https://github.com/meckert/slack-bot-template#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3"
+  }
+}
